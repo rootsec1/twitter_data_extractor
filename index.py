@@ -1,7 +1,7 @@
 from textblob import TextBlob
 import tweepy
 
-QUERY = "sunpharma"
+QUERY = "commodities"
 CONSUMER_KEY = "YHF7RMi5tbptR48PdI4o1LSgF"
 CONSUMER_SECRET = "L96FftoZYt6myWjuBKg6XThGe2mtHWfKFs73pMiVurzbEt1EUS"
 ACCESS_TOKEN = "2852578340-gIkkRqfOLSbm0e4rhbqZP9IZPbFhiZVJza6sEMI"
